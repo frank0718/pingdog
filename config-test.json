@@ -1,0 +1,8 @@
+{
+	"mailto": "aaa@example.com",
+	"servers": {
+		"8.8.8.8": "google",
+		"114.114.114.114": "114",
+		"1.1.1.1": "cloud"
+	}
+}
